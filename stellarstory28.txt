@@ -1,0 +1,50 @@
+## Stellar Encounters in Harish's Lab
+
+**Characters:**
+
+* **Harish:** A passionate astrophysics researcher, prone to excited outbursts.
+* **Priya:** Harish's more grounded and methodical research partner.
+
+**Setting:**
+
+A cluttered but high-tech lab filled with computer screens displaying star charts, astronomical data, and simulations. Telescopes and complex instruments hum softly in the background.
+
+**(Harish paces excitedly in front of a large monitor, while Priya calmly analyzes data on her tablet.)**
+
+**Harish:** Priya, look at this! This is incredible! HD 165155, a star just 10 parsecs away, has a high probability of stellar encounters!
+
+**Priya:** (Without looking up)  Harish, please. You know how sensitive these simulations can be. A slight variation in proper motion can drastically alter the predicted trajectory.
+
+**Harish:**  But this is different! The Gaia DR3 data is so precise! Look at this projected flyby! It could disrupt the entire habitable zone!
+
+**(Harish points to the screen, where a simulation shows a star hurtling past HD 165155, its gravity tugging at the orbits of planets in the habitable zone.)**
+
+**Priya:** (Intrigued, she walks over to the monitor)  Hmm, you might be onto something.  The close approach could trigger gravitational instabilities, flinging planets out of the system or sending them crashing into each other.
+
+**Harish:**  Exactly! And there are over 140 known exoplanets in habitable zones within 10 parsecs. Imagine the implications!  We need to analyze the potential risk to each of them.
+
+**Priya:**  We need to be systematic. Let's start by cross-referencing the Gaia DR3 data with the exoplanet catalog. We'll focus on the 84 habitable zone systems closest to the Sun.
+
+**(Harish starts typing furiously, pulling up star charts and exoplanet data.)**
+
+**Harish:**  Okay, I'm accessing the catalog now. Let's see...  HD 165155... confirmed, one gas giant... and... wait a minute... there's a potential Earth-sized planet in the habitable zone!
+
+**Priya:**  This is getting interesting. We need to run more detailed simulations. Factor in the mass of the planets, their orbital parameters, and the potential perturber's trajectory.
+
+**(They both immerse themselves in the work, running simulations, analyzing data, and scribbling equations on a whiteboard.)**
+
+**Harish:**  (Pointing at a graph)  Look at this! If the perturber passes within 0.5 parsecs, the Earth-sized planet could be ejected from the system!
+
+**Priya:**  This could have significant implications for our understanding of habitable zones and the long-term stability of planetary systems.
+
+**Harish:**  We need to publish this! This could change the way we search for life beyond Earth!
+
+**(Harish grabs his laptop and starts drafting a paper, his fingers flying across the keyboard. Priya continues to analyze the data, a thoughtful expression on her face.)**
+
+**Priya:**  Hold on, Harish. We need to be cautious.  More research is needed.  We need to consider other factors, like the inclination of the orbits and the possibility of resonant interactions.
+
+**Harish:**  (Slightly deflated)  You're right, Priya. Always the voice of reason. But still, this is exciting!  We're on the verge of something big!
+
+**(They continue their work, the lab filled with the hum of computers and the murmur of their discussions.  The mysteries of stellar encounters and the fate of habitable worlds await their unraveling.)**
+
+**(Fade out.)** 
